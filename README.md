@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MelissaGBR
+- 👋 Hi, I’m @MelissaGRB
 - 👀 I’m interested in expanding my knowledge in the tech world
 - 🌱 I’m currently re-learning to code as well as ways to bridge my knowlege in medicine and tech
 - 💞️ I’m looking to collaborate on anything robotics
